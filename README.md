@@ -47,7 +47,7 @@ export default App;
   * enter into your project folder and open command prompt type cmd (npm start)
   * output from above code
   
-![Img](img\state.PNG)
+![Img](img/state.PNG)
  
 ## Props Definition:-
   * “Props” is a special keyword in React, which stands for properties and is being used for **passing data from one component to another**. But the important part here is that data with props are being passed in a **uni-directional flow**. (one way from parent to child) 
@@ -86,13 +86,13 @@ export default App;
 ```
 ## output
   * output from above code
- ![props](img\props.PNG)
+ ![props](img/props.PNG)
 ## state vs props:-
 
-![state vs props](img\statepropsd.PNG)
+![state vs props](img/statepropsd.PNG)
 
 ### example:
-![hai](img\exp.PNG)
+![hai](img/exp.PNG)
 
 
 # JSON Rendering
@@ -101,7 +101,7 @@ export default App;
  * JSON is a lightweight format for storing and transporting data.
  * JSON is often used when data is sent from a server to a web page.
  * JSON is "self-describing" and easy to understand.
- ![json img](img\jsonimg.PNG)
+ ![json img](img/jsonimg.PNG)
  
  ## JSON Syntax Rules :-
   * Data is in name/value pairs
@@ -186,7 +186,7 @@ export default App;
 * add your own css or bootstrap
 ### output bellow
   * Output from above code
-![json](img\json.PNG)
+![json](img/json.PNG)
 
 
 # Router
@@ -275,13 +275,13 @@ export default App;
   
   ### Output:-
   start page
-  ![1](img\1.PNG)
+  ![1](img/1.PNG)
   Home page
-  ![1](img\2.PNG) 
+  ![1](img/2.PNG) 
   About Page
-  ![1](img\3.PNG)
+  ![1](img/3.PNG)
   Contact page
-  ![1](img\4.PNG)
+  ![1](img/4.PNG)
   
   
   * **Step-4**: In the above screen, you can see that Home component is still rendered. It is because the home path is '/' and about path is '/about', so you can observe that slash is common in both paths which render both components. To stop this behavior, you need to use the exact prop. It can be seen in the below example.
@@ -333,10 +333,10 @@ let Home=()=>{
 export default App;
 ```
 ## output
-![h](img\h.PNG)
+![h](img/h.PNG)
 * After adding Link, you can see that the routes are rendered on the screen. Now, if you click on the About, you will see URL is changing and About component is rendered.
-![h](img\a.PNG)
+![h](img/a.PNG)
 
 ## Task1:
 Creat app Navigation Bar bellow image
-![nav](img\nav.PNG)
+![nav](img/nav.PNG)
