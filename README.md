@@ -29,7 +29,7 @@ import React, { Component } from 'react';
 class App extends React.Component {
  constructor() {
       super();
-      this.state = { name: "Raja" };
+      this.state = { name: "Swami" };
       }
       render() {
               return (
