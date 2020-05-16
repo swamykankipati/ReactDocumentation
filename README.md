@@ -337,6 +337,3 @@ export default App;
 * After adding Link, you can see that the routes are rendered on the screen. Now, if you click on the About, you will see URL is changing and About component is rendered.
 ![h](img/a.PNG)
 
-## Task1:
-Creat app Navigation Bar bellow image
-![nav](img/nav.PNG)
